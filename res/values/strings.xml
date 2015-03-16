@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AddressBook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add_contact">Add Contact</string>
+    
+    <drawable name="clr_normal">#00000000</drawable>
+    <drawable name="clr_pressed">#D4D4D4</drawable>
+    
+    <string name="add_suc">add contact success</string>
+    <string name="add_fail">add contatc failed</string>
+    <string name="update_suc">update contact success</string>
+    <string name="update_fail">update contact failed</string>
+    <string name="delete_suc">delete contatc success</string>
+    <string name="delete_fail">delete contatc failed</string>
+
+    <string name="send_suc">send message success</string>
+    <string name="hello">please input the message</string>
+    
+    <string name="input_sex">please choose the sex</string>
+    <string name="input_name">please input the name</string>
+    <string name="input_number">please input the correct number(8 or 11)</string>
+    <string name="input_mail">please input the correct e-mail</string>
+    
+    <string name="hint_name">name</string>
+    <string name="hint_number">number</string>
+    <string name="hint_mail">e-mail</string>
+    <string name="hint_birthday">birthday</string>
+    <string name="hint_search">search contact</string>
+    
+    <string name="contact_operation">What do you want to do with him/her?</string>
+    <string name="select_photo">Select Photo</string>
+    
+    <string name="input_message">please input something!</string>
+    <string name="search_content">Please input the search content</string>
+    
+</resources>

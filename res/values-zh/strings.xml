@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">通讯录</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add_contact">添加联系人</string>
+    
+    <drawable name="clr_normal">#00000000</drawable>
+    <drawable name="clr_pressed">#D4D4D4</drawable>
+    
+    <string name="add_suc">添加成功</string>
+    <string name="add_fail">添加失败</string>
+    <string name="update_suc">更新成功</string>
+    <string name="update_fail">更新失败</string>
+    <string name="delete_suc">删除成功</string>
+    <string name="delete_fail">删除失败</string>
+
+    <string name="send_suc">发送成功</string>
+    <string name="hello">请输入短信内容</string>
+    
+    <string name="input_sex">请选择性别</string>
+    <string name="input_name">请输入姓名</string>
+    <string name="input_number">请输入有效的号码（8位或11位）</string>
+    <string name="input_mail">请输入有效的邮箱</string>
+    
+    <string name="hint_name">姓名</string>
+    <string name="hint_number">电话号码</string>
+    <string name="hint_mail">邮箱</string>
+    <string name="hint_birthday">生日</string>
+    <string name="hint_search">搜索联系人</string>
+    
+    <string name="contact_operation">你要干嘛？</string>
+    <string name="select_photo">选择图片</string>
+    
+    <string name="input_message">发送内容不能为空！</string>
+    <string name="search_content">请输入查询内容</string>
+    
+</resources>
